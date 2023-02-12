@@ -1,6 +1,6 @@
 # ProjectReports
 Some of my Project Reports, Programs and Visualizations are in the directories above.
-Here some samples that might entice you to continue looking to my portfolio:
+Here some samples that might entice you to continue looking to the projects:
 
 GUI developed in Python using TKinter toolkit library
 in addition to the Machine Learning algorithms for the Intrusion Detection System (IDS) written in Python.
