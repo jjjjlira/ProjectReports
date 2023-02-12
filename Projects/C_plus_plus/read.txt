@@ -1,2 +1,0 @@
-C++ algprithms
-from: Data Structures Specialization
