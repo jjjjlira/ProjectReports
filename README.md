@@ -4,7 +4,8 @@ Some of my Project Reports, Programs and Visualizations are in the directories a
 Here some samples that might entice you to continue looking to my portfolio:
 
 GUI developed in Python using TKinter library
-in addition to the Machine Learning Logic for the IDS written in Python.
+in addition to the Machine Learning algorithms for the Intrusion Detection System written in Python.
+
 ![image](https://user-images.githubusercontent.com/104345634/218298277-a87fd973-6862-4113-9aaa-d80fcdf8ad15.png)
 
 Car Accidents Visualization (Tableau):
@@ -14,3 +15,11 @@ Car Accidents Visualization (Tableau):
 Sales Dashboard (Tableau):
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
 ![image](https://user-images.githubusercontent.com/104345634/218298277-a87fd973-6862-4113-9aaa-d80fcdf8ad15.png)
+
+Man-In-The-Middle attack/ Credential harvester programmed in Python
+![image](https://user-images.githubusercontent.com/104345634/218298922-83b1c079-7fb2-43fa-b408-137a8b3b0aa4.png)
+
+SYN flooding (Denial-of-Service) programmed in Python
+![image](https://user-images.githubusercontent.com/104345634/218298968-18a031ec-6449-4f11-952c-14a1887ac4d6.png)
+
+
