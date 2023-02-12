@@ -17,7 +17,7 @@ Sales Dashboard (Tableau):
 
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
 
-Man-In-The-Middle attack/ Credential harvester programmed in Python (Pycharm - Kali Linux)
+Man-In-The-Middle attack / Password Sniffer programmed in Python (Pycharm - Kali Linux)
 
 ![image](https://user-images.githubusercontent.com/104345634/218298922-83b1c079-7fb2-43fa-b408-137a8b3b0aa4.png)
 
