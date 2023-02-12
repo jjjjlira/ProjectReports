@@ -2,9 +2,9 @@
 Some of my Project Reports, Programs and Visualizations are in the directories above.
 Here some samples that might entice you to continue looking to the projects:
 
-GUI developed in Python using TKinter toolkit library
+My very first Machine Learning Project. GUI developed in Python using TKinter toolkit library
 in addition to the Machine Learning algorithms for the Intrusion Detection System (IDS) written in Python.
-Naive BAyes, Decision Tree, KNN, Logistic Regression, RandomForest, Support Vector Machine, Neural Networks:
+Naive Bayes, Decision Tree, KNN, Logistic Regression, RandomForest, Support Vector Machine, Neural Networks:
 
 ![image](https://user-images.githubusercontent.com/104345634/218298277-a87fd973-6862-4113-9aaa-d80fcdf8ad15.png)
 
