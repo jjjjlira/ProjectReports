@@ -4,7 +4,7 @@ The projects are organized uisng the following structure:
 
 - <u>**C++ Data Structures and Algorithms (CPP)**</u>
   
-  Mainly from the problems solved during tha Data Structures and Algorithms Specialization
+  Some of the problems solved during tha Data Structures and Algorithms Specialization
 
 - <u>**Computer Vision (CV)**</u>
   
