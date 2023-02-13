@@ -16,7 +16,7 @@ Car Accidents Visualization Dashboard 2 (Tableau with Kaggle Dataset):
 
 ![Portfolio_Visualization_Accidents Dashboard2](https://user-images.githubusercontent.com/104345634/218297740-96e7e4e2-5318-4522-8755-60379b046ad7.jpg)
 
-Sales Dashboard (Tableau):
+Sales Dashboard (Tableau with Sample database provided by Tableau):
 
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
 
