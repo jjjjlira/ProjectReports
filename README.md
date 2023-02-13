@@ -2,15 +2,15 @@
 
 The projects are organized uisng the following structure:
 
-- <u>**C++ Data Structures and Algorithms (CPP)**</u>
+## <u>C++ Data Structures and Algorithms (CPP)</u>
   
   Some of the problems solved during tha Data Structures and Algorithms Specialization
 
-- <u>**Computer Vision (CV)**</u>
+## <u>Computer Vision (CV)</u>
   
   Projects implemented in Python using Open CV Library.
 
-- <u>**Machine Learning Tabular Data (ML)**</u> 
+## <u>Machine Learning Tabular Data (ML)</u> 
   
   Projects programmed in Python using SciKit-Learn Library implementing traditional Machine Learning algorithms
   like: 
@@ -23,7 +23,7 @@ The projects are organized uisng the following structure:
   - XGBoost
   - etc.
 
-- <u>**Natural Language Processing (NLP)**</u>
+## <u>Natural Language Processing (NLP)</u>
   
   Projects involving different areas of NLP: 
   - Named Entity Recognition - NER
@@ -31,7 +31,7 @@ The projects are organized uisng the following structure:
   - Text Summarization
   - Topic Modelling
 
-- <u>**Recommender Algorithms (REC)**</u>
+## <u>Recommender Algorithms (REC)</u>
   
   Diverse techniques for recommendation engines like:
   - Matrix Factorization
@@ -39,7 +39,7 @@ The projects are organized uisng the following structure:
   - Collaborative Filtering
   - Turicreate
 
-- <u>**Time Series Analysis (TIME)**</u>
+## <u>Time Series Analysis (TIME)</u>
   
   Time series Analysis using Deep Learning techniques.
 
