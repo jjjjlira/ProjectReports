@@ -44,21 +44,6 @@ The projects are organized uisng the following structure:
   Time series Analysis using Deep Learning techniques.
 
 
-
-My very first Machine Learning Project. GUI developed in Python using TKinter toolkit library
-in addition to the Machine Learning algorithms for the Intrusion Detection System (IDS) written in Python.
-Naive Bayes, Decision Tree, KNN, Logistic Regression, RandomForest, Support Vector Machine, Neural Networks:
-
-![image](https://user-images.githubusercontent.com/104345634/218298277-a87fd973-6862-4113-9aaa-d80fcdf8ad15.png)
-
-Car Accidents Visualization Dashboard 1 (Tableau with Kaggle Dataset):
-
-![Portfolio_Visualization_ScoreCard_Accidents01](https://user-images.githubusercontent.com/104345634/218297685-e33dfd4c-a645-40c9-8420-1f1c10a13883.jpg)
-
-Car Accidents Visualization Dashboard 2 (Tableau with Kaggle Dataset):
-
-![Portfolio_Visualization_Accidents Dashboard2](https://user-images.githubusercontent.com/104345634/218297740-96e7e4e2-5318-4522-8755-60379b046ad7.jpg)
-
 Sales Dashboard (Tableau with Sample database provided by Tableau):
 
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
