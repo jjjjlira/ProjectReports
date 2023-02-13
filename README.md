@@ -39,7 +39,7 @@ The projects are organized using the following structure:
   - Text Classification using Word2Vec and Doc2Vec
   - Text Sentiment Analysis using LSTM and GRUs
   - Text Summarization using Sumy, Gensim,and Summa
-  - Topic Modeling using Latent Dirichlet Allocation
+  - Topic Modeling using Latent Dirichlet Allocation (LDA)
 
 ## <u>Recommender Algorithms (REC)</u>
   
@@ -54,7 +54,7 @@ The projects are organized using the following structure:
   
   Time series Analysis using Deep Learning techniques.
 
-## <u>Visualization </u>
+## <u>Visualization and Storytelling </u>
 
 - Tableau Dashboard Accidents USA
 - Tableau Dashboard CO2
