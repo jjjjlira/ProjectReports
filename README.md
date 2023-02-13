@@ -37,7 +37,7 @@ The projects are organized using the following structure:
   
   Named Entity Recognition - NER, Text Sentiment Analysis, Text, Summarization, Topic Modelling, etc.
 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">ResumeParsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Resume Parsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Classification using Word2Vec and Doc2Vec</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis using LSTM and GRUs</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/NLP_Text_Summarization_Sumy_Gensim_Summa">Text Summarization using Sumy, Gensim,and Summa</a></p>
