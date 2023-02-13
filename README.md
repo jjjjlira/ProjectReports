@@ -28,7 +28,7 @@ The projects are organized using the following structure:
   
   Decision Tree, Random Forest, Support Vector Machine, Logistic Regression, KNN, AdaBoost, XGBoost, etc.
 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking Machine Learning Algorithms, Data Cleaning and Preprocessing</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking XGBoost, ADABoost, Histogram-based Gradient Boosting classifiers, Data Cleaning and Preprocessing</a></p>
    - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/ML_Intrusion_Detection_System_using_ML">Intrusion Detection System using Machine Learning</a></p>
 
 ## <u>Natural Language Processing (NLP)</u>
