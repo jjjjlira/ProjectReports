@@ -8,9 +8,12 @@ Naive Bayes, Decision Tree, KNN, Logistic Regression, RandomForest, Support Vect
 
 ![image](https://user-images.githubusercontent.com/104345634/218298277-a87fd973-6862-4113-9aaa-d80fcdf8ad15.png)
 
-Car Accidents Visualization (Tableau with Kaggle Dataset):
+Car Accidents Visualization Dashboard 1 (Tableau with Kaggle Dataset):
 
 ![Portfolio_Visualization_ScoreCard_Accidents01](https://user-images.githubusercontent.com/104345634/218297685-e33dfd4c-a645-40c9-8420-1f1c10a13883.jpg)
+
+Car Accidents Visualization Dashboard 2 (Tableau with Kaggle Dataset):
+
 ![Portfolio_Visualization_Accidents Dashboard2](https://user-images.githubusercontent.com/104345634/218297740-96e7e4e2-5318-4522-8755-60379b046ad7.jpg)
 
 Sales Dashboard (Tableau):
@@ -19,7 +22,6 @@ Sales Dashboard (Tableau):
 
 Testing Fast Fourier Transform Filters (Implemented in Python)
 
-![image](https://user-images.githubusercontent.com/104345634/218345823-815c5cb6-ea98-4f84-8f20-75692a1c6074.png)
 ![image](https://user-images.githubusercontent.com/104345634/218345836-0a410562-6fa0-4c35-9165-d1493a09f35e.png)
 
 
