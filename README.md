@@ -17,7 +17,7 @@ Sales Dashboard (Tableau):
 
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
 
-Testing Fast Fourier Transfor Filters (Implemented in Python)
+Testing Fast Fourier Transform Filters (Implemented in Python)
 
 ![image](https://user-images.githubusercontent.com/104345634/218345823-815c5cb6-ea98-4f84-8f20-75692a1c6074.png)
 ![image](https://user-images.githubusercontent.com/104345634/218345836-0a410562-6fa0-4c35-9165-d1493a09f35e.png)
