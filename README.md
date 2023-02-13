@@ -1,6 +1,6 @@
 # ProjectReports
 
-The projects are organized uisng the following structure:
+The projects are organized using the following structure:
 
 ## <u>C++ Data Structures and Algorithms (CPP)</u>
   
