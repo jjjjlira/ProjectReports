@@ -1,4 +1,4 @@
-# ProjectReports
+# Projects
 
 The projects are organized using the following structure:
 
