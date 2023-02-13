@@ -20,6 +20,11 @@ Sales Dashboard (Tableau with Sample database provided by Tableau):
 
 ![Portfolio_Visualization_Pearson_Arrow_Comparison](https://user-images.githubusercontent.com/104345634/218298080-125b734a-499f-4ddd-86d6-a00411b5bf74.jpg)
 
+Desing Thinking Scenario Map (using Mural tool)
+
+![image](https://user-images.githubusercontent.com/104345634/218347457-00281994-08bc-4830-b207-cfac3d5e9746.png)
+
+
 Testing Fast Fourier Transform Filters (Implemented in Python)
 
 ![image](https://user-images.githubusercontent.com/104345634/218345836-0a410562-6fa0-4c35-9165-d1493a09f35e.png)
