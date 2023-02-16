@@ -44,7 +44,7 @@ The projects are organized using the following structure:
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analisys with BOW, TFIDF, RandomForest and Stochastic Gradient Descend</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis with GloVe Embeddings, LSTM and GRUs</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Summarization_Sumy_Gensim_Summa">Text Summarization using Sumy, Gensim,and Summa</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Topic_Modeling_Latent_Dirichlet_Allocation">NLP_Text_to_Speech_Convert_PDF_to_Audiobook</a></p>  
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_to_Speech_Convert_PDF_to_Audiobook">Text to Speech Converter: PDF to Audiobook</a></p>  
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Topic_Modeling_Latent_Dirichlet_Allocation">Topic Modeling using Latent Dirichlet Allocation (LDA) </a></p> 
 
 ## <u>Recommender Algorithms (REC)</u>
