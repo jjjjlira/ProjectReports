@@ -21,6 +21,7 @@ The projects are organized using the following structure:
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/CV_Bluring_Sharpening_Images_Fast_Fourier_Transform_Filters">Bluring and Sharpening Images Fast Fourier Transform Filters</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/CV_Face_Detection_using_HAAR_Cascade_Filters">Face Detection using HAAR Cascade Filters</a></p>
+   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/CV_Face_Detection_using_HAAR_Cascade_Filters">Motion Detector using OpenCV</a></p>
 ## <u>Machine Learning Tabular Data (ML)</u> 
   
   Projects programmed in Python using SciKit-Learn Library implementing traditional Machine Learning algorithms
