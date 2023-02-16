@@ -20,7 +20,7 @@ The projects are organized using the following structure:
   Projects implemented in Python using Open CV Library.
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Bluring_Sharpening_Images_Fast_Fourier_Transform_Filters">Bluring and Sharpening Images Fast Fourier Transform Filters</a></p>
-  - <p><a href="httphttps://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Face_Detection_using_HAAR_Cascade_Filters">Face Detection using HAAR Cascade Filters</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Face_Detection_using_HAAR_Cascade_Filters">Face Detection using HAAR Cascade Filters</a></p>
    - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Motion%20Detector%20using%20OpenCV">Motion Detector using OpenCV</a></p>
 ## <u>Machine Learning Tabular Data (ML)</u> 
   
