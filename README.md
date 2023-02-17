@@ -33,9 +33,7 @@ The projects are organized using the following structure:
 
 ## <u>Natural Language Processing (NLP)</u>
   
-  Projects involving different areas of NLP like: 
-  
-  Named Entity Recognition - NER, Text Sentiment Analysis, Text, Summarization, Topic Modelling, etc.
+  Projects involving different areas of NLP like: Named Entity Recognition - NER, Text Sentiment Analysis, Text, Summarization, Topic Modelling, Text to Speech, etc.:
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Resume Parsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Classification using Word2Vec and Doc2Vec</a></p>
