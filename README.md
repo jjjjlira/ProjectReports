@@ -53,7 +53,8 @@ The projects are organized using the following structure:
 ## <u>Time Series Analysis</u>
   
   Time series Analysis using Deep Learning techniques.
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Time Series Analysis with LSTM (Temperatures in Melbourne)</a></p> 
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Forecasting Time Series using RNNs</a></p> 
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Time Series Temperature Analysis with LSTM</a></p> 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Multivariate Stock Prediction using Gated Recurrent Units (GRU) and Long Short Term Memory (LSTM)</a></p> 
 
 
