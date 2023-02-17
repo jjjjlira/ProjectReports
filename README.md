@@ -37,7 +37,7 @@ The projects are organized using the following structure:
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Resume Parsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Classification using Word2Vec and Doc2Vec</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Reviews as Pandas DataFrame using Web Scraping (Yelp.com Web Site)</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Review_Web_Scraping">Text Reviews as Pandas DataFrame using Web Scraping (Yelp.com Web Site)</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analisys with BOW, TFIDF, RandomForest and Stochastic Gradient Descend</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis with GloVe Embeddings, LSTM and GRUs</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Summarization_Sumy_Gensim_Summa">Text Summarization using Sumy, Gensim,and Summa</a></p>
@@ -53,9 +53,9 @@ The projects are organized using the following structure:
 ## <u>Time Series Analysis</u>
   
   Time series Analysis using Deep Learning techniques.
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Forecasting Time Series using RNNs</a></p> 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Time Series Temperature Analysis with LSTM</a></p> 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)">Multivariate Stock Prediction using Gated Recurrent Units (GRU) and Long Short Term Memory (LSTM)</a></p> 
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)/TIME_Forecasting_Time_Series_using_RNNs">Forecasting Time Series using RNNs</a></p> 
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)/TIME_Temperature%20Forecast_Univariate_Analysis_LSTM">Time Series Temperature Analysis with LSTM</a></p> 
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Time%20Series%20Analysis%20(TIME)/TIME_Stock_Prediction_Multivariate_Analysis_GRU_LSTM">Multivariate Stock Prediction using Gated Recurrent Units (GRU) and Long Short Term Memory (LSTM)</a></p> 
 
 
 
