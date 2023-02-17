@@ -6,8 +6,8 @@
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Binary_Tree_Traversals_In_Pre_Post_Order">Binary Tree Traversals In-Order, Pre-Order, and Post-Order</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Convert_Array_into_Heap">Convert Array into Heap</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Hash_Table_using_Chaining">Hash Table using Chaining</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Testing_Binary_Search_Tree_Correctness">Substring Equality using Pre-Computed Hash Tables</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Testing_Binary_Search_Tree_Correctness">Testing Binary Search Tree Correctness</a></p>
-
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Text_Distance_From_Pattern_Text_Search_Mismatches">Text Distance From Pattern Text Search Mismatches</a></p>
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Data_Structures_and_Algorithms/CPP_Hash_Substring_Rabin%E2%80%93Karp_Algorithm">Rabin–Karp’s algorithm implementation (search patterns in text)</a></p>
