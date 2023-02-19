@@ -37,11 +37,13 @@
   Projects involving different areas of NLP like: Named Entity Recognition - NER, Text Sentiment Analysis, Text, Summarization, Topic Modelling, Text to Speech, etc.:
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Resume Parsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Spanish-English Translator using a Sequence-to-Sequence Model with Encoder-Decoder Transformers</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Classification using Word2Vec and Doc2Vec</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Parser_using_CRF">Text Parsing using Conditional Random Fields (CRF) Model </a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Review_Web_Scraping">Text Reviews as Pandas DataFrame using Web Scraping (Yelp.com)</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis with BOW, TFIDF, RandomForest and Stochastic Gradient Descend</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis with GloVe Embeddings, LSTM and GRUs</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Sentiment_Analysis_LSTM_GRU">Text Sentiment Analysis with Bi-grams and TF-IDF Vectorization, Dense and Dropout Layers</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Summarization_Sumy_Gensim_Summa">Text Summarization using Sumy, Gensim,and Summa</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_to_Speech_Convert_PDF_to_Audiobook">Text to Speech Converter: PDF to Audiobook</a></p>  
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Topic_Modeling_Latent_Dirichlet_Allocation">Topic Modeling using Latent Dirichlet Allocation (LDA) </a></p> 
