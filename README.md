@@ -30,14 +30,14 @@
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking Random Forest, K-Nearest Neighbors, Suport Vector Machine Classifiers. With Preprocessing, Imputation, and Feature Reductions </a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Intrusion_Detection_System_using_ML">Intrusion Detection System using Naive-Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, and Neural Networks</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_FIFA_AutoFeature_Detection">FIFA players Auto-Feature Selection using Chi-Squared, Recursive Feature Elimination, Lasso, and Light Gradient Boosting Machine </a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">COVID-19 DataFrame Analysis with Web Scraping and Visualizations</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">COVID-19 DataFrame Analysis with Web Scraping and Plotly Visualizations</a></p>
 
 ## <u>Natural Language Processing (NLP)</u>
   
   Projects involving different areas of NLP like: Named Entity Recognition - NER, Text Sentiment Analysis, Text, Summarization, Topic Modelling, Text to Speech, etc.:
 
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Resume Parsing using RoBERTa Transformers (Named Entity Recognition)</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Resume_Parsing_using_RoBERTa_Transformers_Named_Entity_Recognition">Spanish-English Translator using a Sequence-to-Sequence Model with Encoder-Decoder Transformers</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Spanish-English%20Translator%20using%20a%20Sequence-to-Sequence%20Model%20with%20Encoder-Decoder_Transformers">Spanish-English Translator using Transformers with Multi-Head Attention in a Sequence-to-Sequence Model</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Classification_Word2Vec_and_Doc2Vec">Text Classification using Word2Vec and Doc2Vec</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Parser_using_CRF">Text Parsing using Conditional Random Fields (CRF) Model </a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Natural%20Language%20Processing%20(NLP)/NLP_Text_Review_Web_Scraping">Text Reviews as Pandas DataFrame using Web Scraping (Yelp.com)</a></p>
