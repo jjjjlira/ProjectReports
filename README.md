@@ -14,7 +14,7 @@
   
   Projects programmed in Python using SciKit-Learn Library implementing traditional Machine Learning algorithms:
 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">Ensemble Models Employee Retention</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">XGBoost-Random Forest models to Explain Employee Retention</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Customer%20Classification%20Preprocessing%2C%20Imputation%2C%20Feature%20Reductions">Benchmarking XGBoost, ADABoost, Histogram-based Gradient Boosting classifiers, Data Cleaning and Preprocessing</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking Random Forest, K-Nearest Neighbors, Suport Vector Machine Classifiers. With Preprocessing, Imputation, and Feature Reductions </a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Intrusion_Detection_System_using_ML">Intrusion Detection System using Naive-Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, and Neural Networks</a></p>
