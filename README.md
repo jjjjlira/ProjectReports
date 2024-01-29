@@ -10,16 +10,16 @@
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Motion%20Detector%20using%20OpenCV">Motion Detector using OpenCV</a></p>
   - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Computer%20Vision/CV_Object_Extraction">Extracting Object from Background using Riddler-Calvard, Otsu, and Adaptive Thresholding </a></p>
 
-## <u>Machine Learning Tabular Data</u> 
+## <u>Machine Learning</u> 
   
   Projects programmed in Python using SciKit-Learn Library implementing traditional Machine Learning algorithms:
 
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">XGBoost-Random Forest models to Explain Employee Retention</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Customer%20Classification%20Preprocessing%2C%20Imputation%2C%20Feature%20Reductions">Benchmarking XGBoost, ADABoost, Histogram-based Gradient Boosting classifiers, Data Cleaning and Preprocessing</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking Random Forest, K-Nearest Neighbors, Suport Vector Machine Classifiers. With Preprocessing, Imputation, and Feature Reductions </a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_Intrusion_Detection_System_using_ML">Intrusion Detection System using Naive-Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, and Neural Networks</a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_FIFA_AutoFeature_Detection">FIFA players Auto-Feature Selection using Chi-Squared, Recursive Feature Elimination, Lasso, and Light Gradient Boosting Machine </a></p>
-  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning%20Tabular%20Data%20(ML)/ML_COVID_Analysis_with_Web_Scraping">COVID-19 DataFrame Analysis with Web Scraping and Plotly Visualizations</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_COVID_Analysis_with_Web_Scraping">XGBoost-Random Forest models to Explain Employee Retention</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_Customer%20Classification%20Preprocessing%2C%20Imputation%2C%20Feature%20Reductions">Benchmarking XGBoost, ADABoost, Histogram-based Gradient Boosting classifiers, Data Cleaning and Preprocessing</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_Benchmarking_ML_Algorithms_Data_Cleaning_Preprocessing">Benchmarking Random Forest, K-Nearest Neighbors, Suport Vector Machine Classifiers. With Preprocessing, Imputation, and Feature Reductions </a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_Intrusion_Detection_System_using_ML">Intrusion Detection System using Naive-Bayes, Logistic Regression, Random Forest, K-Nearest Neighbors, and Neural Networks</a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_FIFA_AutoFeature_Detection">FIFA players Auto-Feature Selection using Chi-Squared, Recursive Feature Elimination, Lasso, and Light Gradient Boosting Machine </a></p>
+  - <p><a href="https://github.com/jjjjlira/ProjectReports/tree/main/Machine%20Learning/ML_COVID_Analysis_with_Web_Scraping">COVID-19 DataFrame Analysis with Web Scraping and Plotly Visualizations</a></p>
 
 ## <u>Natural Language Processing (NLP)</u>
   
